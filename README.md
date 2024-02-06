@@ -1,4 +1,5 @@
 # repo_sample3
+```
 
 Using the fact that \(0\le \Pi_i \le I\) and \(I=\Pi_1+\Pi_2\), we obtain
 
@@ -26,3 +27,5 @@ Since \(I=\Pi_1+\Pi_2-\Pi_1\Pi_2\), we finally arrive at
 \[
 \text{Tr}\left[(I-\Pi_1\Pi_2)\rho\right] \ge 0.
 \]
+```
+``
